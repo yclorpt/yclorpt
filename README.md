@@ -1,3 +1,3 @@
 
-- Currently learning C++
+- Currently learning C++/OpenGL
 
